@@ -1,0 +1,2 @@
+# allure
+npx codeceptjs run
